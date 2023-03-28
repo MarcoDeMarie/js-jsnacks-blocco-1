@@ -5,5 +5,5 @@ JSnack 5
  se è dispari inseriscilo nell’array
 ## Svolgimento
 - creare un array vuoto
-- chiedere all'utente 6 numeri
-- creare un if che aggiunga i numeri dispari all'array
+- creo un ciclo fino al 6 per chiedere i numeri
+- creo un if che vada a prendere i numeri dispari e li inserica nell'array

@@ -4,5 +4,6 @@ JSnack 7
  perciò per fermarsi prima di 1000 bisogna stampare la potenza prima di incrementarla
  perché altrimenti il controllo viene fatto dopo e si sfora
 ## Svolgimento
-- creo un ciclo che vada a prendere tutti i numeri da 2 a 1000
-- se il numero è una potenza di due lo stampa se no no
+- creo una costante che mi imponga un limite 
+- creo una variabile da moltiplicare
+- con il ciclo while faccio l'operazione finchè non stampa i numeri giusti
